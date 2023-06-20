@@ -1,0 +1,27 @@
+.add-product-form {
+    margin-bottom: 20px;
+  }
+  
+  .add-product-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-product-form input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .add-product-form button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .add-product-form button:hover {
+    background-color: #0056b3;
+  }
+  
